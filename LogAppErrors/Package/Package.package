@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="42a204ec-5672-4149-abbc-d286d34bbea0" 
+        solutionId="42a204ec-5672-4149-abbc-d286d34bbea0" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="LogAppErrors"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="dd3da619-1a4e-4e53-a9f3-3cd1c263b1ee" />
+  </features>
+</package>
